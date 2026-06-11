@@ -1,5 +1,4 @@
 {
   "framework": "tanstack-start",
-  "buildCommand": "bun run build",
-  "outputDirectory": ".output"
+  "buildCommand": "bun run build"
 }
